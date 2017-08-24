@@ -11,3 +11,6 @@ __status__ = "Prototype"
 
 # The 12 note chromatic scale.
 chromatic = ['A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#']
+
+# Scale Modes
+ionian = [2, 2, 1, 2, 2, 2, 1] # The "Major" scale.
