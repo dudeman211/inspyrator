@@ -14,3 +14,12 @@ chromatic = ['A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#']
 
 # Scale Modes
 ionian = [2, 2, 1, 2, 2, 2, 1] # The "Major" scale.
+
+def make_new_chrom(scale_key, a_chrom):
+    """
+    Rearranges the notes to start on given element.
+    """
+
+    new_chrom = a_chrom[scale_key:] + a_chrom[:scale_key]
+    new_chrom.append(a_chrom[scale_key])
+    return new_chrom
