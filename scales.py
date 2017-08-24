@@ -2,7 +2,7 @@
 
 """scales.py: Builds the different scale modes from the 12-note chromatic scale."""
 
-__version__ "0.01a"
+__version__ = "0.01a"
 
 __author__ = "Sal Bruno"
 __copyright__ = "Copyright 2017, Sal Bruno"
