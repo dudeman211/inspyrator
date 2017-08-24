@@ -13,7 +13,7 @@ __status__ = "Prototype"
 chromatic = ['A', 'A#', 'B', 'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#']
 
 # Scale Modes
-ionian = [2, 2, 1, 2, 2, 2, 1] # The "Major" scale.
+ionian = [2, 2, 1, 2, 2, 2, 1]  # The "Major" scale.
 
 def make_new_chrom(scale_key, a_chrom):
     """
@@ -21,5 +21,5 @@ def make_new_chrom(scale_key, a_chrom):
     """
 
     new_chrom = a_chrom[scale_key:] + a_chrom[:scale_key]
-    new_chrom.append(a_chrom[scale_key])
+    new_chrom.append(a_chrom[scale_key])  # Append first note to end of list.
     return new_chrom
