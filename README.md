@@ -3,7 +3,7 @@ A python program to build music scales from the 12-note chromatic scale.
 
 Currently builds and displays the seven modes of the major scale from a user chosen key.  
 The seven modes are:  
-Ionian (Major), Dorian, Phrygian, Lydian, Mixolydian, Aeolian (minor), Locrian
+___Ionian (Major), Dorian, Phrygian, Lydian, Mixolydian, Aeolian (minor), Locrian___
 
 Status:  
   Prototype  
