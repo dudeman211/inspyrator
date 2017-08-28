@@ -5,7 +5,7 @@ Currently builds and displays the seven modes of the major scale from a user cho
 The seven modes are:  
 ___Ionian (Major), Dorian, Phrygian, Lydian, Mixolydian, Aeolian (minor), Locrian___
 
-Only uses sharps (***#***), no flats (___b___)
+Only uses sharps (**#**), no flats (___b___)
 
 Status:  
   Prototype  
