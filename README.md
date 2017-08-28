@@ -1,7 +1,9 @@
 # Inspyrator
 A python program to build music scales from the 12-note chromatic scale.
 
-Currently builds and displays the seven modes of the major scale - Ionian (Major), Dorian, Phrygian, Lydian, Mixolydian, Aeolian (minor), Locrian - from a user chosen key. 
+Currently builds and displays the seven modes of the major scale from a user chosen key.  
+The seven modes are:  
+Ionian (Major), Dorian, Phrygian, Lydian, Mixolydian, Aeolian (minor), Locrian
 
 Status:  
   Prototype  
@@ -15,4 +17,4 @@ Version: 0.1a
 Version: 0.1b
   Changed name from build_scales to "Inspyrator".
   Moved all declarations to another file to make more modular.
-  Displays all 7 modes of user chosen key.
+  Displays all 7 modes, including name and scales, of user chosen key.
