@@ -1,5 +1,6 @@
 # Inspyrator
-A python program to build music scales from the 12-note chromatic scale.
+A program to build music scales from the 12-note chromatic scale.
+**Python** version only. Plans to fork to other languages, in the process of a HTML5/CSS3/Javascript version.
 
 Currently builds and displays the seven modes of the major scale from a user chosen key.  
 The seven modes are:  
